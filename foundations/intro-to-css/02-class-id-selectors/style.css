@@ -5,3 +5,27 @@ div{
     font-weight: bold;
     text-align: center;
 }
+
+.odd_row{
+    color: black;
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.odd_row.mid{
+    font-size: 24px;
+}
+
+#second{
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+    text-align: left;
+} 
+
+#forth{
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
